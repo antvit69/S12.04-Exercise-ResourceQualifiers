@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="verybigText" parent="@style/ExtraWeatherMeasurement">
+        <item name="android:textSize">52sp</item>
+    </style>
+    <style name="bigText" parent="@style/ExtraWeatherMeasurement">
+        <item name="android:textSize">28sp</item>
+    </style>
+    <style name="mediumText" parent="@style/ExtraWeatherMeasurement">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="smallText" parent="@style/ExtraWeatherMeasurement">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+</resources>
